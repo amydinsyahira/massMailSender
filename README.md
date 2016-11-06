@@ -1,4 +1,4 @@
-Simple Free Mass Mailer Sender(SFMMS)
+# Simple Free Mass Mailer Sender(SFMMS)
 
 Version
 ---------------------
